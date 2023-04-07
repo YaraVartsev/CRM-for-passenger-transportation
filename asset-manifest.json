@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRM-for-passenger-transportation/static/css/main.e6c13ad2.css",
+    "main.js": "/CRM-for-passenger-transportation/static/js/main.1fd2c381.js",
+    "static/js/787.92323743.chunk.js": "/CRM-for-passenger-transportation/static/js/787.92323743.chunk.js",
+    "index.html": "/CRM-for-passenger-transportation/index.html",
+    "main.e6c13ad2.css.map": "/CRM-for-passenger-transportation/static/css/main.e6c13ad2.css.map",
+    "main.1fd2c381.js.map": "/CRM-for-passenger-transportation/static/js/main.1fd2c381.js.map",
+    "787.92323743.chunk.js.map": "/CRM-for-passenger-transportation/static/js/787.92323743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fd2c381.js"
+  ]
+}
